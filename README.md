@@ -1,3 +1,5 @@
+<p align="center"><img src="https://cdn.discordapp.com/attachments/886928754713186324/1032286003546816574/280_20221019223551.png" width="400" height="400"></p>
+
 ## NUUUG Sctipt <br>Python-based language for easy programming.
 
 ```
