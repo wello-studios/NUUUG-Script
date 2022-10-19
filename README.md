@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://cdn.discordapp.com/attachments/886928754713186324/1031500736607031306/280_20221017183532.png" width="256" height="256"><br>Python-based language for easy programming.</h3>
 <br>
 
-# NUUUG-lang v1.0
+# NUUUG Sctipt 0.0.0
 
 ```
 log("Hello, World")
