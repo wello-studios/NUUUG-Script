@@ -5,9 +5,9 @@ log("Hello, World")
 ```
 
 <p align="center">
-   <a href="왜 NUUUG Script를 사용해야 하나요?">Why?</a> /
-   <a href="Docs">Docs</a> /
-   <a href="Join us">Join us</a>
+   <a href="#왜-nuuug-script를-사용해야-하나요">Why?</a> /
+   <a href="#docs">Docs</a> /
+   <a href="#join-us">Join us</a>
 </p>
 
 
