@@ -1,0 +1,11 @@
+string_variable : "life is too short"
+string_variable2 : "you need nuuug script"
+variable : string_variable + string_variable2 /-- "life is too shortyou need nuuug script", type : str
+
+int_variable : 2
+float_variable : 5.23
+variable2 : int_variable + float_variable /-- 7.23, type : float
+variable3 : int_variable ?> float_variable /-- false, type : bool
+variable4 : string_variable ?= string_variable2 /-- true, type : bool
+
+this_language_developer_head : idk /-- lul
