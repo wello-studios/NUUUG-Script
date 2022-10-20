@@ -3,7 +3,7 @@
 ## NUUUG Sctipt <br>Python-based language for easy programming.
 
 ```
-log("Hello, World")
+log :: "Hello, World"
 ```
 
 <p align="center">
